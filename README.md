@@ -1,6 +1,6 @@
 Viajemos.com - Elaborado por Samael Fierro Sánchez
 
-Cordial saludo, respecto a la prueba  técnica. El archivo de la exportación de la base de datos se encuentra en el presente repositorio como BASE_DE_DATOS.SQL
+Cordial saludo, respecto a la prueba  técnica. El archivo de la exportación de la base de datos se encuentra en el presente repositorio como ESQUEMA_BASE_DATOS_intelcost_bienes.SQL
 
 1. PÁgina de busqueda principal con parámetros de búsqueda
  
